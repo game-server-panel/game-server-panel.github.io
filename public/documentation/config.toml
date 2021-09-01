@@ -1,0 +1,8 @@
+[menu]
+
+  [[menu.main]]
+    identifier = "documentation"
+    name = "Documentation"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/"
+    weight = 20

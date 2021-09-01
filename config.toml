@@ -1,0 +1,28 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'GSP'
+theme = "docsy"
+contentDir = "content/en"
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        title = "GSP"
+        contentDir = "content/en"
+        languageName = "English"
+    [languages.it]
+        title = "GSP"
+        contentDir = "content/it"
+        languageName = "Italiano"
+
+[menu]
+    [[menu.main]]
+        identifier = "Documentation"
+        name = "Documentation"
+        url = "/docs/"
+        weight = 1
+    [[menu.main]]
+        identifier = "Github"
+        name = "Github"
+        url = "https://github.com/Superredstone/game-server-panel"
+        weight = 1
