@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = panegameserver@gmail.com
+	name = game-server-panel
+[remote "origin"]
+	url = https://github.com/game-server-panel/docs.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
