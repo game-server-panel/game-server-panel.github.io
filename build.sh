@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo -d content/en/build/
+hugo -d docs/
