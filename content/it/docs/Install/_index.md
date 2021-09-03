@@ -4,7 +4,7 @@ weight: 1
 type: docs
 ---
 
-{{< alert title="Note" >}}
+{{< alert title="Nota" >}}
 In futuro creerò un installer
 {{< /alert >}}
 
