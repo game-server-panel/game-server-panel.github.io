@@ -38,6 +38,18 @@
                 href="/docs/"
                 />
   </url><url>
+    <loc>/docs/install/newaccount/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/docs/install/newaccount/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/install/newaccount/"
+                />
+  </url><url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"

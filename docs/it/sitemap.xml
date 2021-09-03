@@ -38,6 +38,18 @@
                 href="/it/docs/install/ubuntu/"
                 />
   </url><url>
+    <loc>/it/docs/install/newaccount/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/install/newaccount/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/docs/install/newaccount/"
+                />
+  </url><url>
     <loc>/it/categories/</loc>
     <xhtml:link
                 rel="alternate"

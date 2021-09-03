@@ -49,5 +49,35 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: Come creare il primo account</title>
+      <link>/it/docs/install/newaccount/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/it/docs/install/newaccount/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Una volta installato GSP è necessaria la creazione di un account per potervi accedervi, per crearne uno basta recarsi nella cartella di installazione con&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;cd game-server-panel
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;installare i moduli necessari alla creazione dell&amp;rsquo;account con&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;npm install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;dare il comando&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;npm run createuser
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;e infine inserire i propri dati&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Nota&lt;/h4&gt;
+
+    Tutti i dati inseriti verranno salvati SOLAMENTE nel database sui cui viene ospitato il backend di GSP.
+Tutti i dati prima di essere inseriti nel database vengono criptati con l&amp;rsquo;algoritmo sha256 al fine di avere maggior sicurezza
+
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
